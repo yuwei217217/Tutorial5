@@ -6,6 +6,9 @@ nice
 good
 
 today is tuesday
-tomorrow is wednesday
+tomorrow is thursday
+
+how are you?
+
 
 
