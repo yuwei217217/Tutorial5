@@ -4,3 +4,5 @@ it is too hard
 beautiful
 nice 
 good
+
+today is tuesday
